@@ -8,6 +8,7 @@ They are based on my personal experience and serves as a starting point for lear
 - Most of them are of type spring-boot-starter*
 - Testing libraries
 - Interesting third-party libraries
+- I do not include Lombok but you could add it
 
 ## Installation
 1. Clone the repository:
